@@ -6,10 +6,10 @@ tags:
 layout: page
 ---
 
-# Question
+## Question
 How to restart JRS?
 Edit 1.
-# Answer
+## Answer
 Run these commands:
 
 ```
