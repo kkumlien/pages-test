@@ -3,7 +3,7 @@ title: How to restart JRS
 tags:
 - howto
 - jrs
-layouts: page
+layout: page
 ---
 
 # Question
