@@ -8,7 +8,7 @@ layout: default
 
 ## Question
 How to restart JRS?
-Edit 1.
+
 ## Answer
 Run these commands:
 
